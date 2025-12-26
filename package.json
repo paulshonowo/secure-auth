@@ -1,0 +1,29 @@
+{
+  "name": "@paulshonowo/secure-auth",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "description": "Plug-and-play secure authentication for Node.js apps",
+  "keywords": [
+    "authentication",
+    "security",
+    "jwt",
+    "saas"
+  ],
+  "author": "Paul Shonowo",
+  "license": "UNLICENSED",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulshonowo/secure-auth.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/paulshonowo/secure-auth/issues"
+  },
+  "homepage": "https://github.com/paulshonowo/secure-auth#readme"
+}
