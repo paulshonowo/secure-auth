@@ -26,6 +26,18 @@ Focus on building your product, not fixing auth.
 - **Drop-in Express middleware**, ready to install  
 
 
+## Security & Logging
+
+Secure Auth includes built-in security logging for authentication events such as:
+
+- User signup
+- Login success and failure
+- Password resets
+- Rate-limit triggers
+
+Logs are structured JSON and contain no sensitive credentials, making them audit-friendly and easy to integrate with external logging systems.
+
+
 
 ## Why Choose Secure Auth
 
