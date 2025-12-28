@@ -24,6 +24,8 @@ Focus on building your product, not fixing auth.
 - **Rate limiting** to prevent brute-force attacks  
 - **Audit logs** for all authentication events  
 - **Drop-in Express middleware**, ready to install  
+- **⚠️ Note: The default implementation uses an in-memory store for demonstration and development. For production use, connect Secure Auth to your own database.
+
 
 
 ## Security & Logging
