@@ -69,7 +69,7 @@ Free updates for the MVP version
 Contact paulshonowo.dev@gmail.com
 to get access.
 
-
+👉 Purchase here: https://gumroad.com/paulshonowo
 
 
 
