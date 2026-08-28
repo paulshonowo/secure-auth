@@ -56,22 +56,7 @@ Clean, minimal integration with Express
 
 
 
-## Early Access / Pricing
 
-$29 USD for early access
-
-Includes:
-
-Private GitHub repo access
-
-Full installation and usage instructions
-
-Free updates for the MVP version
-
-Contact paulshonowo.dev@gmail.com
-to get access.
-
-👉 Purchase here: https://gumroad.com/paulshonowo
 
 
 
